@@ -1,0 +1,10 @@
+.vs/
+**/x64/
+**/Win32/
+**/Debug/
+**/Release/
+*.user
+*.suo
+tests/.build/
+dist/
+
